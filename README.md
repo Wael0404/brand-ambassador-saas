@@ -233,19 +233,3 @@ npm run test:e2e
 cd frontend
 npm run test
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## Support
-
-For questions or support, contact: support@shopmyinfluence.fr
-
-## License
-
-This project is proprietary software. All rights reserved.
